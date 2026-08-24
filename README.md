@@ -33,4 +33,5 @@ Actively building more projects and sharpening SQL, Python, and Tableau skills w
 Currently job hunting for Business Analyst and Data Analyst roles. I'm always happy to connect, answer questions, or talk through any of these projects.
 
 [LinkedIn](https://www.linkedin.com/in/shreyaseth30/)
-[gmail](ssdeth3007@gmail.com)
+seth30)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ssseth3007@gmail.com)
