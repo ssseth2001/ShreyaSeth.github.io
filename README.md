@@ -30,6 +30,6 @@ Actively building more projects and sharpening SQL, Python, and Tableau skills w
 
 📫 **Let's connect**
 
-Currently job hunting for Business Analyst and Data Analyst roles — always happy to connect, answer questions, or talk through any of these projects.
+Currently job hunting for Business Analyst and Data Analyst roles. I'm always happy to connect, answer questions, or talk through any of these projects.
 
-[LinkedIn](www.linkedin.com/in/shreyaseth30)
+[LinkedIn](https://www.linkedin.com/in/shreyaseth30/)
