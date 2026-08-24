@@ -1,7 +1,7 @@
 # ShreyaSeth.github.io
 ### Hi, I'm Shreya 👋
 
-**Relationship Banker → Business & Data Analyst**
+Business & Data Analyst**
 
 M.S. in Business Analytics (Cal Poly Pomona) with hands-on banking experience, focused on turning messy, real-world data into clear, decision-ready insights.
 
