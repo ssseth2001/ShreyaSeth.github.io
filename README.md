@@ -11,6 +11,7 @@ M.S. in Business Analytics (Cal Poly Pomona) with hands-on banking experience, f
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
@@ -20,6 +21,9 @@ M.S. in Business Analytics (Cal Poly Pomona) with hands-on banking experience, f
 This profile is a working showcase of my analytics projects — real business problems, real data pipelines, and real findings, built end to end.
 
 📊 **Featured Projects**
+
+**[StreamNest Subscriber Churn Analysis](https://github.com/ssseth2001/StreamNest-Subscriber-Churn-Analysis)**
+Cleaned 5,000 subscriber and 30,000+ payment records in Excel and Power Query, defined churn from billing behavior (cancellations vs failed payments), and built an interactive Excel dashboard with slicers. Found that 1 in 4 churned subscribers left only because a payment failed (at least $86K a year) and recommended four actions estimated to cut churn from 50% to about 37%. *(Synthetic practice dataset.)*
 
 **[Branch Performance Analytics Dashboard](https://github.com/ssseth2001/branchperformanceanalytics)**
 End-to-end analytics pipeline: cleaned and analyzed 1,700+ banking transaction records across 4 branches and 2 years using Excel and SQL Server, calculated KPIs (conversion rate, error rate, revenue), and built an interactive Tableau dashboard surfacing year-over-year performance trends.
